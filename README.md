@@ -35,4 +35,4 @@ Mão na massa e boa sorte!
 
 ---
 
-<p align="center">with :heart: by [Nooio](https://nooio-website.netlify.app/)</p>
+<p align="center">with :heart: by (Nooio)[https://nooio-website.netlify.app/]</p>

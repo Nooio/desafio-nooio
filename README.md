@@ -29,5 +29,10 @@ Você pode:
 
 - Publicar o código em um projeto publico na sua conta do github e nos mandar o link (preferimos essa forma)
 
+_________
 
 Mão na massa e boa sorte!
+
+---
+
+<p align="center">with :heart: by [Nooio](https://nooio-website.netlify.app/)</p>
